@@ -1,0 +1,6 @@
+csvtutor
+========
+
+Simple application to read CSV files in Rust using 'csv' crate.
+
+This toy app follows BurntSushi's blog: https://blog.burntsushi.net/csv/
